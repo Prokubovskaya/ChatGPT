@@ -22,7 +22,7 @@ Get the max tokens for a prompt
 def remove_suffix(input_string, suffix)
 ```
 
-Remove suffix from string (Support for Python 3.8)
+Remove suffix from string (Support for Python 3.9)
 
 <a id="revChatGPT.Official.Chatbot"></a>
 
